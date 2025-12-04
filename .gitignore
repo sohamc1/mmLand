@@ -1,0 +1,7 @@
+*.pickle
+*.csv
+*.png
+*.gif
+*.mp4
+*.txt
+.gitignore
